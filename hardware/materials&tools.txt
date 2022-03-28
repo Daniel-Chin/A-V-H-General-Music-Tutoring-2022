@@ -1,0 +1,37 @@
+Materials:
+
+plastic 6-hole recorder flute (for its mouthpiece)
+PLA/ABS
+dissolvable support filament (or, MJF printing tech)
+Arduino nano
+Bronze tape
+jumper cables x 36
+    F-? 20cm    6
+    F-? >=24cm  2
+    M-F 20cm    2
+    F-F 20cm    4
+    F-F 10cm    6
+9G servo x 6
+    (telesky MG90 带轴承 ￥22)
+5V2A voltage-raised Lithium battery
+air pressure sensor (BMP085)
+Bluetooth board (HC-05) 
+    + one pair of high resistors 3.3 : 1.7
+    (But the Taobao ones claim you can directly give 5V)
+PCA9685
+switch (船型开关)
+USB power line extractor/converter, one female
+5 x (1 nut + 1 bolt), 3mm diameter
+moister absorbing balls (from packaged food), diameter > 1mm
+轧带 x2
+
+Tools:
+    soldering station
+    clear tape 玻璃胶
+    hot glue gun
+    plier set 老虎钳
+    screwdriver set
+    box cutter 美工刀
+    duct tape
+    calipers 游标卡尺
+    wire strippers
